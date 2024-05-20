@@ -1,4 +1,4 @@
-# Install script for directory: /home/oozypilot84/OS2-FInal
+# Install script for directory: /home/gabicalin05/OS2/OS2-FInal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/oozypilot84/OS2-FInal/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gabicalin05/OS2/OS2-FInal/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

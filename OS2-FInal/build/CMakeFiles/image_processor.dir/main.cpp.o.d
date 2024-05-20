@@ -1,5 +1,5 @@
 CMakeFiles/image_processor.dir/main.cpp.o: \
- /home/oozypilot84/OS2-FInal/main.cpp /usr/include/stdc-predef.h \
+ /home/gabicalin05/OS2/OS2-FInal/main.cpp /usr/include/stdc-predef.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

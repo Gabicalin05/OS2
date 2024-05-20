@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/image_processor.dir/main.cpp.o -o ../bin/image_processor 
+/usr/bin/c++ CMakeFiles/image_processor.dir/main.cpp.o -o /home/gabicalin05/OS2/OS2-FInal/bin/image_processor
