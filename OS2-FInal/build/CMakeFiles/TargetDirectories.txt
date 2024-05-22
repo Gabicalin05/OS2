@@ -1,3 +1,3 @@
-/home/gabicalin05/OS2/OS2-FInal/build/CMakeFiles/image_processor.dir
-/home/gabicalin05/OS2/OS2-FInal/build/CMakeFiles/edit_cache.dir
-/home/gabicalin05/OS2/OS2-FInal/build/CMakeFiles/rebuild_cache.dir
+/home/oozypilot84/OS-Final-2/OS2/OS2-FInal/build/CMakeFiles/image_processor.dir
+/home/oozypilot84/OS-Final-2/OS2/OS2-FInal/build/CMakeFiles/edit_cache.dir
+/home/oozypilot84/OS-Final-2/OS2/OS2-FInal/build/CMakeFiles/rebuild_cache.dir

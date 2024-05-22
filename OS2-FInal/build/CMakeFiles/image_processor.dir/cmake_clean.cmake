@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/gabicalin05/OS2/OS2-FInal/bin/image_processor"
-  "/home/gabicalin05/OS2/OS2-FInal/bin/image_processor.pdb"
+  "../bin/image_processor"
+  "../bin/image_processor.pdb"
   "CMakeFiles/image_processor.dir/main.cpp.o"
   "CMakeFiles/image_processor.dir/main.cpp.o.d"
 )
